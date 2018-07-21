@@ -1,0 +1,8 @@
+commands
+git stash - it is used for .....
+when we wont push the unfinished code to the remote repo,
+                  &
+at the same time we wont lose our code at the we use this type of cmd.
+git stash drop - it is used for ....
+we want to push unfinished code .......at the time we use this cmd.
+

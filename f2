@@ -1,0 +1,18 @@
+git clone means - its a similiar copy of remote repo.
+
+
+
+how to create a branch master?
+cmd- git branch (branch name)
+how to checkout a branch?
+cmd- git checkout branch name
+how to merge the files to one branch to another branch?
+cmd- git merge master1 master
+how to remote a branch?
+cmd- git branch -d branch name
+how to reset the files from index area to work space?
+cmd- git reset head file name
+how to reset the files from local repo to index area?
+cmd- git reset --soft sha code
+how to reset the files directly from local repo to work space?
+git reset --mixed sha code
